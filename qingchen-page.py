@@ -3,7 +3,7 @@ from flask import Flask
 app = Flask(__name__)
 
 
-@app.route('/templates/')
+@app.route('/')
 def hello_world():
     return app.send_static_file('index.html')
 
