@@ -16,6 +16,7 @@
   "use strict";
   var defaults;
 
+
   defaults = {
     // general elements & wrapper
     slippryWrapper: '<div class="sy-box" />', // wrapper to wrap everything, including pager
