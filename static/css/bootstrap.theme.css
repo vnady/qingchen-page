@@ -1,0 +1,21 @@
+.container {
+  width: 970px;
+}
+h1 {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+h1.legend {
+  padding-bottom: 15px;
+  margin-bottom: 20px;
+  border-bottom: 2px dotted #d3d3d3;
+}
+h2 {
+  font-size: 18px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+.table-bordered > thead > tr > th,
+.table-bordered > thead > tr > td {
+  border-bottom-width: 1px;
+}
